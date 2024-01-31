@@ -18,7 +18,7 @@ https://arxiv.org/abs/2401.16468
 https://mv-lab.github.io/InstructIR/
 
 ### 🖼 Output
-
+![Screenshot 2024-01-31 202701](https://github.com/camenduru/InstructIR-jupyter/assets/54370274/60d2d18a-5568-4bb7-977b-d0c450c812ad)
 
 ### 🏢 Sponsor
 https://modelslab.com
